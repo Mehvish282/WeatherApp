@@ -32,7 +32,7 @@ A modern, responsive weather application with dynamic backgrounds that change ba
 - `npm run preview` - Preview production build
 
 ## Live Demo
-[Add your GitHub Pages URL here]
+https://github.com/Mehvish282/WeatherApp
 
 ---
 Built with ❤️ using modern web technologies
